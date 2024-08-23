@@ -3,3 +3,4 @@ djangorestframework
 djangorestframework-simplejwt
 mysql-connector
 mysql-connector-python
+pymysql
